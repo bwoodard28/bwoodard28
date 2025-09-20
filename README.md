@@ -7,7 +7,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/bwoodard28/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/bwoodard28/programmatic-vulnerability-remediations)**
-
+- **[Windows 11 DISA STIG Compliance](https://github.com/bwoodard28/DISA-STIG-Hardening)**
+  
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bwoodard28/threat-hunting-scenario-tor)**
