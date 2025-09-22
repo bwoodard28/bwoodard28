@@ -14,8 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bwoodard28/threat-hunting-scenario-tor)**
 
 ## ☁️ Cloud Security Labs
-- **[Azure RBAC Demo](https://github.com/bwoodard28/azure-rbac-demo)** – Showcases privilege escalation risks by contrasting misconfigured Owner roles with least-privilege assignments and MFA enforcement.  
-- **[Azure Secure Web App Lab](https://github.com/bwoodard28/azure-webapp-lab)** – Deployed and secured a web application in Azure with identity-based access controls, logging, and monitoring.
+- **[Azure RBAC Demo](https://github.com/bwoodard28/cloud-security-lab-iam-rbac)** – Showcases privilege escalation risks by contrasting misconfigured Owner roles with least-privilege assignments and MFA enforcement.  
 - **[Azure CI/CD Pipeline with GitHub Actions](https://github.com/bwoodard28/azure-cicd-pipeline)**  
   Deploys a simple HTML app to Azure App Services using GitHub Actions.
 
