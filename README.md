@@ -1,6 +1,8 @@
 # <a href="https://www.linkedin.com/in/bricewoodard/">Brice Woodard</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to cloud security, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I focus on bridging the gap between technical security findings and business risk. My work spans **vulnerability management, governance/risk/compliance (GRC), and cloud security**, with hands-on projects that demonstrate not only how to identify security issues but also how to align them with frameworks like **NIST, PCI DSS, ISO 27001, and SOC 2**.  
+
+This portfolio highlights practical labs and deliverables I’ve built — from vulnerability management programs and compliance mapping exercises to risk registers and incident response playbooks — to show my ability to create **audit-ready, business-facing security documentation.**
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -8,7 +10,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/bwoodard28/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/bwoodard28/programmatic-vulnerability-remediations)**
 - **[Windows 11 DISA STIG Compliance](https://github.com/bwoodard28/DISA-STIG-Hardening)**
-  
+
+## 📝 Governance, Risk & Compliance (GRC) Projects
+
+- **[Compliance Mapping Exercise](https://github.com/bwoodard28/compliance-mapping-exercise)**
+- **[Risk Register Lab](https://github.com/bwoodard28/files-public/blob/bfc7584bac864af5c334cbd423aaa01432daae6f/risk_register_github.xlsx)**
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bwoodard28/threat-hunting-scenario-tor)**
@@ -31,8 +38,3 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/bricewoodard
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
