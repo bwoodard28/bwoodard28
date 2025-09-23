@@ -1,8 +1,6 @@
 # <a href="https://www.linkedin.com/in/bricewoodard/">Brice Woodard</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I focus on bridging the gap between technical security findings and business risk. My work spans **vulnerability management, governance/risk/compliance (GRC), and cloud security**, with hands-on projects that demonstrate not only how to identify security issues but also how to align them with frameworks like **NIST, PCI DSS, ISO 27001, and SOC 2**.  
-
-This portfolio highlights practical labs and deliverables I’ve built — from vulnerability management programs and compliance mapping exercises to risk registers and incident response playbooks — to show my ability to create **audit-ready, business-facing security documentation.**
+My work focuses on security operations, vulnerability management, and governance, risk, and compliance. I build hands-on projects that show how technical findings connect to business risk and compliance requirements. This portfolio includes vulnerability management programs, compliance mapping, risk registers, cloud security labs, and integrations. Each project is designed to produce practical, audit-ready deliverables.
 
 
 ## ⚠️ Vulnerability Management Projects
